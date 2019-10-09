@@ -32,5 +32,5 @@ def find_the_cheese(array)
   return true 
 else 
   return false
-  
+end 
 end
